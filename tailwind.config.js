@@ -13,7 +13,4 @@ export default {
  },
  plugins: [],
  darkMode: 'class',
- safelist: [
-  'text-3xl'//ここに記載されたものは必ずバンドルされる 
- ]
 }
